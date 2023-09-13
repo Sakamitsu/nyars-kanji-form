@@ -1,0 +1,24 @@
+  :root {
+      --primary: #4ade80;
+      --dark-green: #2ea44f;
+      --dark-alt: #334155;
+      --light: #f1f5f9;
+      --dark-object: #353638;
+      --dark-object-hover: #3C3F41;
+      --border: #2a2f3b;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira sans', sans-serif;
+  }
+
+  button {
+    cursor: pointer;
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+  }
